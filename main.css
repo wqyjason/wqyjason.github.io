@@ -27,9 +27,3 @@ p{
 footer ul{
 	margin:0;
 }
-
-footer ul li{
-		display: inline-block;
-	color: black;
-	margin: 5px;
-}
