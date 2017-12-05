@@ -8,5 +8,6 @@ p ul{
 
 p ul li{
 	margin: 15px 15px 15px 15px;
+	display: inline-block;
 }
 
