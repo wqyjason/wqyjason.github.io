@@ -29,12 +29,7 @@ footer ul{
 }
 
 footer ul li{
-	margin: 0;
-}
-
-
-footer{
-	display: inline-block;
+		display: inline-block;
 	color: black;
 	margin: 5px;
 }
