@@ -24,6 +24,15 @@ p{
 	color: black;
 }
 
+footer ul{
+	margin:0;
+}
+
+footer ul li{
+	margin: 0;
+}
+
+
 footer{
 	display: inline-block;
 	color: black;
