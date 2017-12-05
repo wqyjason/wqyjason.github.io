@@ -1,5 +1,4 @@
 header{
-	background: #999;
 	color: white;
 }
 
@@ -13,11 +12,14 @@ nav ul {
 
 nav ul li{
 	display: inline-block;
-	background: black;
 	color: white;
 	margin: 5px;
 }
 
 nav ul li a{
+	color: white;
+}
+
+p{
 	color: white;
 }
