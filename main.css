@@ -27,3 +27,8 @@ p{
 footer ul{
 	margin:0;
 }
+
+footer ul li{
+	display: inline-block;;
+	margin: 3px;
+}
