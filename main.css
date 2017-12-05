@@ -20,17 +20,8 @@ nav ul li a{
 	color: black;
 }
 
-#word{
+p{
 	color: black;
-}
-
-#image{
-	border-radius: 30px;
-	align-content: center;
-	display: block;
-	margin: auto;
-	max-width: 50%;
-	max-height: 30%;
 }
 
 footer ul{
