@@ -10,6 +10,10 @@ p ul li{
 	margin: 5px;
 }
 
+p ul li h2{
+	margin: 3px;
+}
+
 p ul li p{
 	margin: 5px 5px 5px 5px;
 }
