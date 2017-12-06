@@ -9,6 +9,7 @@ p ul{
 
 p ul li{
 	margin: 3px;
+	list-style-type: none;
 }
 
 p ul li h2{
