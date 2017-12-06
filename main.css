@@ -32,3 +32,7 @@ footer ul li{
 	display: inline-block;;
 	margin: 3px;
 }
+
+footer ul li a{
+	margin: 3px;
+}
