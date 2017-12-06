@@ -4,6 +4,7 @@ header{
 
 p ul{
 	margin: 0px;
+	list-style-type: none;
 }
 
 p ul li{
